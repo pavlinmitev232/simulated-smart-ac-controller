@@ -1,0 +1,5 @@
+{
+  "name": "Simulated Smart AC Controller",
+  "description": "A web application to simulate controlling a Wi-Fi enabled air conditioner. Allows users to simulate connecting to an AC unit and toggling its power state, adjusting temperature, and changing modes.",
+  "requestFramePermissions": []
+}
